@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Jitbagde
-- 👀 I’m interested in womens
+- 👋 Hi, I’m Abhijit bagde
 - 🌱 I had done my graduation in B.E (mechanical).
 - 💞️ I’m looking to collaborate on MNC
 - 📫 How to reach me at jitbagde4@gmail.com
