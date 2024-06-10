@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhijit bagde
-- 🌱 I had done my graduation in B.E (mechanical).
-- 💞️ I’m looking to collaborate on MNC
+- 🌱 I have completed my graduation in Bachelor's of Engineering.
+- 💞️ I’m looking to collaborate on MNC.
 - 📫 How to reach me at jitbagde4@gmail.com
 
 <!---
